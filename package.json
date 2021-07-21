@@ -1,0 +1,22 @@
+{
+  "name": "fork-pull-push-main_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmrfzn/fork-pull-push-main_test.git"
+  },
+  "author": "zameer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmrfzn/fork-pull-push-main_test/issues"
+  },
+  "homepage": "https://github.com/zmrfzn/fork-pull-push-main_test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
